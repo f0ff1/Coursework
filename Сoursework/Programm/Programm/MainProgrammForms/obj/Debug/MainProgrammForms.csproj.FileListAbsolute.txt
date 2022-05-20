@@ -1,0 +1,12 @@
+E:\KURSOVAIA\Programm\Programm\MainProgrammForms\bin\Debug\MainProgrammForms.exe.config
+E:\KURSOVAIA\Programm\Programm\MainProgrammForms\bin\Debug\MainProgrammForms.exe
+E:\KURSOVAIA\Programm\Programm\MainProgrammForms\bin\Debug\MainProgrammForms.pdb
+E:\KURSOVAIA\Programm\Programm\MainProgrammForms\obj\Debug\MainProgrammForms.csproj.AssemblyReference.cache
+E:\KURSOVAIA\Programm\Programm\MainProgrammForms\obj\Debug\MainProgrammForms.Properties.Resources.resources
+E:\KURSOVAIA\Programm\Programm\MainProgrammForms\obj\Debug\MainProgrammForms.csproj.GenerateResource.cache
+E:\KURSOVAIA\Programm\Programm\MainProgrammForms\obj\Debug\MainProgrammForms.csproj.CoreCompileInputs.cache
+E:\KURSOVAIA\Programm\Programm\MainProgrammForms\obj\Debug\MainProgrammForms.exe
+E:\KURSOVAIA\Programm\Programm\MainProgrammForms\obj\Debug\MainProgrammForms.pdb
+E:\KURSOVAIA\Programm\Programm\MainProgrammForms\bin\Debug\MaterialSkin.dll
+E:\KURSOVAIA\Programm\Programm\MainProgrammForms\obj\Debug\MainProgrammForms.MainForm.resources
+E:\KURSOVAIA\Programm\Programm\MainProgrammForms\obj\Debug\MainProgrammForms.csproj.CopyComplete
